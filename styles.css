@@ -1,0 +1,19 @@
+body {
+	background-color: whitesmoke;
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	font-family: verdana;
+}
+
+p {
+	color: black;
+	font-family: helvetica;
+	padding: 35px;
+}
+
+img {
+
+}
