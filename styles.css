@@ -2,6 +2,7 @@ body {
 	background-color: whitesmoke;
 	text-align: center;
 	background-image: url('chr2.jpg');
+	height: 200px;
 }
 
 h1 {
