@@ -1,10 +1,7 @@
 body {
 	background-color: whitesmoke;
 	text-align: center;
-	background-image: url('test.png');
-	background-repeat: no-repeat;
-  	background-attachment: fixed;
-  	background-size: cover;
+	background-image: url('chr2.jpg');
 }
 
 h1 {
