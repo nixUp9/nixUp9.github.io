@@ -1,6 +1,7 @@
 body {
 	background-color: whitesmoke;
 	text-align: center;
+	background-image: url('test.png');
 }
 
 h1 {
